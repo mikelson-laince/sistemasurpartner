@@ -93,7 +93,7 @@
         </div>
         <!-- /.card-body -->
         <div class="card-footer">
-          Pie de pagina
+          Pie de pagina surpartner
         </div>
         <!-- /.card-footer-->
       </div>
